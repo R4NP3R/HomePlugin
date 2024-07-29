@@ -12,10 +12,10 @@ Caso deseje baixar o Plugin para uso [`HomePlugin`](https://github.com/R4NP3R/Ho
 * /home - usado para teleportar para sua casa
 * /home particle - ver a particula que o player está usando
 * /home particles list - lista as particulas disponiveis para uso
-* /home particles <particle> - para selecionar a particula desejada
+* /home particles <"particle"> - para selecionar a particula desejada
 * /home particles off - desativa as particulas do player
 * /home delay - retorna a quantidade de segundos do delay
-* /home delay <seconds> - altera a quantidade de segundos do delay
+* /home delay <"seconds"> - altera a quantidade de segundos do delay
 * /sethome - cria uma nova home ou atualiza a localização para o player
 
 ## Script
